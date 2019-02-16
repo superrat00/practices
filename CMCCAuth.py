@@ -23,8 +23,8 @@ url = "http://211.138.1.156:8888/showLogin.do?wlanuserip="+get_host_ip()+"&wlana
 url_post = "http://211.138.1.156:8888/login.do"
 
 #用户名及密码
-username = 
-password = 
+username = MobileNumber
+password = passwd
 
 
 header_login = {
